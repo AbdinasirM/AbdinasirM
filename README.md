@@ -1,8 +1,4 @@
-Introduction
-
-Hello there,
-
-I am a computer science student and a software engineer who is enthusiastic about open-source projects. As an avid user of self-hosted servers, I deeply value the advantages and merits of open-source software. Its ability to foster collaboration and innovation within the software community has greatly influenced my passion for working on open-source projects.
+Hello there, I am a computer science student and a software engineer who is enthusiastic about open-source projects. As an avid user of self-hosted servers, I deeply value the advantages and merits of open-source software. Its ability to foster collaboration and innovation within the software community has greatly influenced my passion for working on open-source projects.
 
 Thank you for taking the time to visit my GitHub profile.
    <p align="left">
