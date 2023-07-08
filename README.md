@@ -30,7 +30,7 @@ Thank you for taking the time to visit my GitHub profile.
 
 ### 📊 Stats
 
-![Abdinasir's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdinasirM&show_icons=true&theme=gruvbox)
+<--![Abdinasir's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdinasirM&show_icons=true&theme=gruvbox)-->
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=AbdinasirM&theme=gruvbox&border_radius=4.5)
 
