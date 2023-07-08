@@ -1,4 +1,10 @@
-Hello World, I am a CompSCI student and web dev.
+Introduction
+
+Hello there,
+
+I am a computer science student and a software engineer who is enthusiastic about open-source projects. As an avid user of self-hosted servers, I deeply value the advantages and merits of open-source software. Its ability to foster collaboration and innovation within the software community has greatly influenced my passion for working on open-source projects.
+
+Thank you for taking the time to visit my GitHub profile.
    <p align="left">
     <a href="https://github.com/AbdinasirM?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/AbdinasirM?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
