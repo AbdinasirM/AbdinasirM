@@ -29,4 +29,4 @@ Thank you for taking the time to visit my GitHub profile.
 #
 
 ### 📊 Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=AbdinasirM&theme=gruvbox-duo&hide_border=true&border_radius=0&card_width=500)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AbdinasirM&theme=gruvbox-duo&hide_border=true&border_radius=0&card_width=800)](https://git.io/streak-stats)
